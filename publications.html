@@ -1,0 +1,78 @@
+---
+layout: page
+title: Scientific publications by our members
+menuname: Publications
+permalink: /publications/
+---
+
+   
+<h4 style="margin-top:30px">Herptiles</h4>
+<div class="table-responsive">
+  <table class="table">
+     <tbody>
+     {% for pub in site.data.INHER_Herptiles  %}
+     <tr>
+       <td>{{ pub.Title }}. {{ pub.Author }}.</td>
+     <td><a href="{{ pub.Url }}">link</a></td>
+     </tr>
+     {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<h4 style="margin-top:30px">Insects</h4>
+<div class="table-responsive">
+  <table class="table">
+     <tbody>
+     {% for pub in site.data.INHER_Insects  %}
+     <tr>
+       <td>{{ pub.Title }}. {{ pub.Author }}.</td>
+     <td><a href="{{ pub.Url }}">link</a></td>
+     </tr>
+     {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<h4 style="margin-top:30px">Birds</h4>
+<div class="table-responsive">
+  <table class="table">
+     <tbody>
+     {% for pub in site.data.INHER_Birds  %}
+     <tr>
+       <td>{{ pub.Title }}. {{ pub.Author }}.</td>
+     <td><a href="{{ pub.Url }}">link</a></td>
+     </tr>
+     {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<h4 style="margin-top:30px">Arachnida</h4>
+<div class="table-responsive">
+  <table class="table">
+     <tbody>
+     {% for pub in site.data.INHER_Araneae  %}
+     <tr>
+       <td>{{ pub.Title }}. {{ pub.Author }}.</td>
+     <td><a href="{{ pub.Url }}">link</a></td>
+     </tr>
+     {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+
+<h4 style="margin-top:30px">Plants</h4>
+<div class="table-responsive">
+  <table class="table">
+     <tbody>
+     {% for pub in site.data.INHER_Plants  %}
+     <tr>
+       <td>{{ pub.Title }}. {{ pub.Author }}.</td>
+     <td><a href="{{ pub.Url }}">link</a></td>
+     </tr>
+     {% endfor %}
+    </tbody>
+  </table>
+</div>
