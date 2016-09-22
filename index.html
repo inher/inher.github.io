@@ -1,6 +1,6 @@
 ---
 layout: default
-background-img: top_banner_logo2.png
+background-img: top_banner_logo2.jpg
 ---
 
 	  {% for post in site.posts %}
@@ -8,7 +8,7 @@ background-img: top_banner_logo2.png
             <a href="{{ post.url }}"><h2 class="blog-post-title">{{ post.title }}</h2></a>
             <p class="blog-post-meta">{{ post.date | date: "%-d %b %Y" }}</p>
 	    {% if post.teaser-img %} 
-	    <img src="{{ site.baseurl }}/assets/imgs/{{ post.teaser-img }}" class="teaser-img-{{ post.teaser-orientation }}">
+	    <img src="{{ site.baseurl }}/assets/imgs/{{ post.teaser-img }}" class="img-responsive teaser-img-{{ post.teaser-orientation }}">
 	    {% endif %}
 	    <p class="post-content" style="margin-top: 10px;"> {{ post.meta }} <a href="{{ post.url }}">more</a></p>
             <p></p>
