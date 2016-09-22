@@ -1,13 +1,21 @@
 ---
 layout: default
+background-img: top_banner_logo2.png
 ---
 
-
-  <div class="bs-component" style="margin-top:30px">
-    <div class="jumbotron" style="background-image:url(/assets/imgs/0390_Kas_RNP.jpg);background-size:cover">
-      <h2 style="text-align:center">Where will your curiosity take you today?</h2>
-    </div>
-  </div>
+	  {% for post in site.posts %}
+          <div class="blog-post">
+            <a href="{{ post.url }}"><h2 class="blog-post-title">{{ post.title }}</h2></a>
+            <p class="blog-post-meta">{{ post.date | date: "%-d %b %Y" }}</p>
+	    {% if post.teaser-img %} 
+	    <img src="{{ site.baseurl }}/assets/imgs/{{ post.teaser-img }}" class="teaser-img-{{ post.teaser-orientation }}">
+	    {% endif %}
+	    <p class="post-content" style="margin-top: 10px;"> {{ post.meta }} <a href="{{ post.url }}">more</a></p>
+            <p></p>
+            <hr id="index-hr">
+          </div>
+	  {% endfor %}
+  
 
   <div class="row" style="margin-top:10px">
     <div class="col-md-4 col-sm-3">

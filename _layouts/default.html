@@ -10,7 +10,12 @@
     <div class="container">
     {% include nav.html position='top' %}
 
-      <img src="{{ site.base_url}}/assets/imgs/top_banner_logo2.png" class="img-responsive" alt="Responsive image">
+
+      <!-- <div class="blog-header" {% if page.background-img %} style="background-image: url({{site.baseurl}}/assets/imgs/{{ page.background-img }})" {% endif %} > -->
+        
+        {% if page.background-img %}
+        <img src="{{ site.base_url}}/assets/imgs/{{ page.background-img }}" class="img-responsive" alt="Responsive image">
+        {% endif %}
       <div class="row" style="margin-top:10px">
         <div class="col-sm-12 blog-main" role="main">
         {{ content }}
