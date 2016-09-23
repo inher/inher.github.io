@@ -10,7 +10,7 @@ teaser-orientation: landscape
 categories: course
 ---
 <center>
-<h2>An Autonomus Certificate Course</h2>
+<h2>An Autonomous Certificate Course</h2>
 
 Jointly Organized by <br />
 <b>
