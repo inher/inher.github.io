@@ -76,6 +76,7 @@ Founder trustee, INHER. Retired Associate Professor, Modern College, Shivajinaga
 Founder trustee, INHER. Head of Zoology Department, Modern College, Shivajinagar, Pune. His specialization is insects especially  wood boring beetles (Coleoptera) and grasshoppers (Orthoptera). He has conducted research and authored research papers on these topics.
 </div>
 </div>
+<hr />
 
 ## Life Members
 <div class="row">
