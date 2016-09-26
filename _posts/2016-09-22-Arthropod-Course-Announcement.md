@@ -80,6 +80,10 @@ Classification and Evolution of Arthropoda
 +  Arthropod Communication
 +  Arthropod Architecture etc.
 
+### Registration
+    Fees Rs 2800 + tax
+    Payable at: Non Grant Office, Garware College, Karve Road (between 11am-1:30om).
+
 ### Contact
     Dr. Anand Padhye - 9922558271
     Garware College, Non-grant Office - 020-41038208
