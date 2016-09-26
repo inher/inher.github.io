@@ -55,7 +55,7 @@ Founder Trustee INHER, Pune. He is also a Naturalist and Field Researcher intere
 <img src="/assets/imgs/DBB.jpg" class="img-circle img-responsive rnp-scale">
 
 <h4 style="text-align: center"> Deshabhushan B. Bastawade</h4>
-Dr. Bastawade, a scientist in Zoological Survey of India for TODO years. He has done is Ph. D. on scorpions fauna of India. He is thoroughly conversant in the morphology of many arachnid orders. A recognized guide for M.Sc. and Ph. D., many students have conducted their research under his guidance. He has written couple of books on scorpions. He has discovered around 30 new species, couple of genera and a new sub-family. He has also written 77 scientific papers, popular books on scorpions and many popular articles.
+Dr. Bastawade, a scientist in Zoological Survey of India for 35 years. He did his Ph. D. on scorpions fauna of India. He is thoroughly conversant in the morphology of many arachnid orders. He has conducted extensive surveys for taxonomic purposes including Arunachal Pradesh and Andhra Pradesh. A recognized guide for M.Sc. and Ph. D., many students have conducted their research under his guidance. He has written couple of books on scorpions. He has discovered around 30 new species, couple of genera and a new sub-family. He has also written 77 scientific papers, popular books on scorpions and many popular articles.
 
 </div>
 <div class="col-md-4 col-sm-4">
