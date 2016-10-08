@@ -63,7 +63,7 @@ Dr. Bastawade, a scientist in Zoological Survey of India for 35 years. He did hi
 <img src="/assets/imgs/SJT.jpg" class="img-circle img-responsive rnp-scale">
 
 <h4 style="text-align: center"> Dr. Sushama J. Thatte</h4>
-Founder trustee, INHER. Retired Associate Professor from Modern College, Shivajinagar, Pune. She specializes in butterflies (Lepidoptera) and ecology.
+Founder trustee, INHER. Retired Associate Professor from Modern College, Shivajinagar, Pune. She is visiting faculty at Institute of Bioinformatics and Biotechnology, University of Pune. She has worked on physiology of various cockroach species and on butterfly population and diversity in Pune. She has given many radio talks on various topics in popular science.
 </div>
 </div>
 <hr />
@@ -102,6 +102,8 @@ Dr. Mandar Datar completed his doctorate in Botany and is a scientist in Biodive
 </div>
 
 </div>
+
+<hr />
 
 <div class="row">
 
