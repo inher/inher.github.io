@@ -94,19 +94,6 @@ Dr. Hemant Ghate is former Head of Zoology department in Modern College, Pune. H
 Rajgopal is an IT professional with deep interest in nature. He has been observing birds in different parts of world for last 30 years. He is keenly interested in bioacoustics and has been recording, analyzing calls of birds and other animals. He has given many talks, written popular articles and published scientific papers on these topics. 
 </div>
 
-
-<div class="col-md-4 col-sm-6" style="text-align=center">
-<img src="/assets/imgs/MND.jpg" class="img-circle img-responsive rnp-scale">
-<h4 style="text-align: center">Dr. Mandar Datar </h4>
-Dr. Mandar Datar completed his doctorate in Botany and is a scientist in Biodiversity & Paleobiology Group of Agharkar Research Institute. His areas of specialization are plant taxonomy and plant ecology. He is interested in diversity, distribution and endemism of flowering plants of Northern Western Ghats. He has published many scientific papers on these topics. He has also given talks and written popular books and articles.
-</div>
-
-</div>
-
-<hr />
-
-<div class="row">
-
 <div class="col-md-4 col-sm-6" style="text-align=center">
 <img src="/assets/imgs/MK.jpg" class="img-circle img-responsive rnp-scale">
 <h4 style="text-align: center">Makarand Ketkar </h4>
