@@ -10,6 +10,9 @@ background-img: top_banner_logo2.jpg
 	    {% if post.teaser-img %} 
 	    <img src="{{ site.baseurl }}/assets/imgs/{{ post.teaser-img }}" class="img-responsive teaser-img-{{ post.teaser-orientation }}">
 	    {% endif %}
+	    {% if post.img-credit %} 
+      <p style="font-size: 10px;"> &copy; {{ post.img-credit }} </p>
+	    {% endif %}
 	    <p class="post-content" style="margin-top: 10px;"> {{ post.meta }} <a href="{{ post.url }}">more</a></p>
             <p></p>
             <hr id="index-hr">
