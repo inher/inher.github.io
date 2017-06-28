@@ -5,16 +5,17 @@ menuname: Publications
 permalink: /publications/
 ---
 
-   
 <h4 style="margin-top:30px">Herptiles</h4>
 <div class="table-responsive">
   <table class="table">
      <tbody>
-     {% for pub in site.data.INHER_Herptiles  %}
+     {% for pub in site.data.INHER_Publications %}
+        {% if pub.Extra == "Herptiles" %}
      <tr>
        <td>{{ pub.Title }}. {{ pub.Author }}.</td>
      <td><a href="{{ pub.Url }}">link</a></td>
      </tr>
+       {% endif %}
      {% endfor %}
     </tbody>
   </table>
@@ -24,11 +25,13 @@ permalink: /publications/
 <div class="table-responsive">
   <table class="table">
      <tbody>
-     {% for pub in site.data.INHER_Insects  %}
+     {% for pub in site.data.INHER_Publications %}
+        {% if pub.Extra == "Insects" %}
      <tr>
        <td>{{ pub.Title }}. {{ pub.Author }}.</td>
      <td><a href="{{ pub.Url }}">link</a></td>
      </tr>
+     {% endif %}
      {% endfor %}
     </tbody>
   </table>
@@ -38,11 +41,13 @@ permalink: /publications/
 <div class="table-responsive">
   <table class="table">
      <tbody>
-     {% for pub in site.data.INHER_Birds  %}
+     {% for pub in site.data.INHER_Publications %}
+        {% if pub.Extra == "Birds" %}
      <tr>
        <td>{{ pub.Title }}. {{ pub.Author }}.</td>
      <td><a href="{{ pub.Url }}">link</a></td>
      </tr>
+       {% endif %}
      {% endfor %}
     </tbody>
   </table>
@@ -52,27 +57,16 @@ permalink: /publications/
 <div class="table-responsive">
   <table class="table">
      <tbody>
-     {% for pub in site.data.INHER_Araneae  %}
+     {% for pub in site.data.INHER_Publications %}
+        {% if pub.Extra == "Arachnida" %}
      <tr>
        <td>{{ pub.Title }}. {{ pub.Author }}.</td>
      <td><a href="{{ pub.Url }}">link</a></td>
      </tr>
+       {% endif %}
      {% endfor %}
     </tbody>
   </table>
 </div>
 
 
-<h4 style="margin-top:30px">Plants</h4>
-<div class="table-responsive">
-  <table class="table">
-     <tbody>
-     {% for pub in site.data.INHER_Plants  %}
-     <tr>
-       <td>{{ pub.Title }}. {{ pub.Author }}.</td>
-     <td><a href="{{ pub.Url }}">link</a></td>
-     </tr>
-     {% endfor %}
-    </tbody>
-  </table>
-</div>
