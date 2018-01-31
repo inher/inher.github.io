@@ -73,4 +73,5 @@ To avail the student discount a current valid educational institute ID is necess
 Registration online. <a href="https://goo.gl/forms/WQAg3hDRnFpUOBUD3">Click here</a>
 
 ### Contact
-    Rajgopal Patil 9823376551
+    Rajgopal Patil: 98233 76551
+    Shauri Sulakhe: 98222 95057
