@@ -43,6 +43,7 @@ Only a limited number of seats are available. Register quickly to avail of early
 <tr><td>Dr. Anand Padhye</td><td>Narendra Naidu</td></tr>
 <tr><td>Dr. Girish Jathar</td><td>Dr. Prachi Mehta</td></tr>
 <tr><td>Anirudh Chaoji</td><td>Dr. Mandar Datar</td></tr>
+<tr><td>Kiran Ghadge</td><td>Vibhav Chitrao</td></tr>
 <tr><td>Rajgopal Patil</td><td>Shauri Sulakhe</td></tr>
 <tr><td>Vishwatej Pawar</td><td>Shrikar Ashtaputre</td></tr>
 </table>
@@ -50,13 +51,13 @@ Only a limited number of seats are available. Register quickly to avail of early
 
 ### Syllabus
 *  Conservation of birds
-+  Classification of Birds
-+  Bird Taxidermy
 +  Field Identification
-+  Habits and Behaviour of birds
 +  Research Techniques
 +  Field training sessions
++  Habits and Behaviour of birds
 +  Ecology of birds
++  Classification of Birds
++  Bird Taxidermy
 
 ### Course charges
     With early bird discount till 5th February 2018:
