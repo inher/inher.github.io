@@ -52,6 +52,7 @@ Only a limited number of seats are available. Register quickly to avail of early
 ### Syllabus
 *  Conservation of birds
 +  Field Identification
++  Bird Photography and other technologies
 +  Research Techniques
 +  Field training sessions
 +  Habits and Behaviour of birds
@@ -60,10 +61,6 @@ Only a limited number of seats are available. Register quickly to avail of early
 +  Bird Taxidermy
 
 ### Course charges
-    With early bird discount till 5th February 2018:
-    Rs 6300 (Students Rs 5800)
-
-    Regular fees:
     Rs 6800 (Students Rs 6300)
 
 Charges include course material, tea/snacks/lunch at NCL Modern high school and transportation/food/accommodation at Garudmaachi.
