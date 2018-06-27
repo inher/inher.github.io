@@ -4,8 +4,8 @@ title:  "Amphibians and reptiles are back. Announcing the 2018 Herpetology cours
 date:   2018-06-26 19:12:06 +0530
 meta: The reptiles and amphibians are the earliest vertebrates to populate the land. This course conducted by eminent experts on reptiles and amphibians is a great introduction to the fantastic variety of snakes, lizards, frogs, crocodiles and other herpetofauna that inhabits our region. The course includes field visits on weekends for first hand primer and presentations covering variety of topics from identification to evolution. The course is open to all and will be conducted between 6 - 23rd July 2018  at S. M. Joshi Hall, Pune.
 keysubtext: 
-background-img: Hydrophylax Bahuvistara.jpg
-teaser-img: Bamboo_Pit_Viper_Makarand_Ketkar.JPG
+background-img: Hydrophylax_Bahuvistara.jpg
+teaser-img: Bamboo_Pit_Viper_Makarand_Ketkar.jpg
 teaser-orientation: landscape
 categories: course
 ---
