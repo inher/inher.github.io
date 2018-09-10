@@ -2,18 +2,15 @@
 layout: post
 title:  "Announcing Amazing Arthropods 2018!"
 date:   2018-09-09 09:12:06 +0530
-meta: Punekars are a curious lot and their overwhelming response to our previous arthropod courses has encouraged us to continue with this informative and exciting short course on the beautiful butterflies and deadly scorpions. This introductory course covers all kinds of insects and other arthropods that inhabit our forests, farms and even our homes. Eminent experts will be speaking on array of topics at this course which is open to all. Will be held from 27 September to 6 October 2018 at Muktangan Exploratory Science Centre, Pune. Talks will be on weekday evenings and includes a field trip with experts to Tamhini/Garudmaachi on Sunday.
+meta: Opportunity for the curious Punekars to get to know our insects and other arthropods. Your overwhelming response to our previous arthropod courses has encouraged us to continue with this informative and exciting short course on the beautiful butterflies and deadly scorpions. This introductory course covers all kinds of insects and other arthropods that inhabit our forests, farms and even our homes. Eminent experts will be speaking on array of topics at this course which is open to all. Will be held from 27 September to 6 October 2018 at Muktangan Exploratory Science Centre, Pune. Talks will be on weekday evenings and includes a field trip with experts to Tamhini/Garudmaachi on Sunday.
 keysubtext: 
 background-img: humming-bird-moth.jpg
 teaser-img: bhutan-glory.jpg
 teaser-orientation: landscape
 categories: course
 ---
-<center>
-<h2>An Autonomous Certificate Course</h2>
-</center>
 
-**Wonders of Nature Series**
+**Wonders of The Nature Series**
 
 ### Amazing Arthropods - A Certificate Course in Arthropod Biology
 
@@ -25,6 +22,9 @@ many more creatures. To create scientific awareness about the world of
 Arthropods, their role in nature and conservation among students and common
 people.
 
+### Register at: <a href="https://goo.gl/forms/5Rtm6Tr505JWXqef2">Click here</a>
+Register today to avail of early bird discount! See <a href="#course-charges">below for details.</a>
+
 ### Key Information ###
     Dates: 27 September - 6 October 2018
     Muktangan Exploratory Science Centre,
@@ -33,8 +33,6 @@ people.
 
     Talks: 6:30 - 8:30PM
     And a field trip with experts to the serene Tamhini forest and beautiful Garudmaachi.
-
-<img src="{{ site.base_url}}/assets/imgs/Scorpion1.jpg" class="img-responsive" alt="Scorpion">
 
 
 ### Faculty
@@ -75,15 +73,22 @@ people.
 
     We are happy to offer early bird discount for payments made by 20th September 2018
     Rs. 4200 (Students Rs 3500)
+
     Regular Charges
     Rs. 4500 (Students Rs 3700)
     
     Transportation and meals charges for field trip are included in the fees.
 
 ### Registration
-+ Online Registration at: <a href="">Click here</a>
-+ You can pay by online bank transfer (bank details at registration). Please
-  send us payment details including transaction is (screenshot is fine).
++ Online Registration at: <a href="https://goo.gl/forms/5Rtm6Tr505JWXqef2">Click here</a>
++ You can pay by online bank transfer (bank details available in the
+  registration form). Please send us payment details including transaction
+  reference (screenshot is fine) to our email address inher.pune@gmail.com.
 + Registration confirmed upon successful payment.
 + We have limited capacity. Kindly register early.
 
+### Contact
+For any queries write to us at:
+inher.pune@gmail.com
+
+<img src="{{ site.base_url}}/assets/imgs/tortoise-shell-nirale.jpg" class="img-responsive" alt="Tortoise Shell beetle">
