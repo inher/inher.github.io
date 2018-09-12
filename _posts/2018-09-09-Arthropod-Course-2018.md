@@ -26,13 +26,16 @@ people.
 Register today to avail of early bird discount! See <a href="#course-charges">below for details.</a>
 
 ### Key Information ###
-    Dates: 27 September - 6 October 2018
-    Muktangan Exploratory Science Centre,
-    Bharatiya Vidya Bhavan Chowk, Off J W Marriot Hotel,
-    Off Senapati Bapat Road, Pune.
+Dates: 27th September - 6th October 2018
+
+Location: Muktangan Exploratory Science Centre,
+Joshi Wadewale lane,
+Bharatiya Vidya Bhavan Chowk, 
+Opp J W Marriot Hotel, Off Senapati Bapat Road, Pune.
+<a href="https://goo.gl/maps/HUDLmFz3fd82">Google maps link</a>
 
     Talks: 6:30 - 8:30PM
-    And a field trip with experts to the serene Tamhini forest and beautiful Garudmaachi.
+    And a field trip with experts to the serene Tamhini forest and the beautiful Garudmaachi.
 
 
 ### Faculty
@@ -84,6 +87,8 @@ Register today to avail of early bird discount! See <a href="#course-charges">be
 + You can pay by online bank transfer (bank details available in the
   registration form). Please send us payment details including transaction
   reference (screenshot is fine) to our email address inher.pune@gmail.com.
++ Alternatively you can pay by cheque at office of Insearch Outdoors Pvt. Ltd.,
+  C-26/9,  Ketan Heights, Rahul Nagar Lane, Near Karve Statue, Kothrud, Pune - 411038. 
 + Registration confirmed upon successful payment.
 + We have limited capacity. Kindly register early.
 
