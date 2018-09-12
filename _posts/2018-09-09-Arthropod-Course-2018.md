@@ -44,7 +44,7 @@ Opp J W Marriot Hotel, Off Senapati Bapat Road, Pune.
 <tr><td>Dr. D. B. Bastawade</td><td>Dr. Sushama Thatte</td></tr>
 <tr><td>Dr. Anand Padhye</td><td>Mr. Narendra Naidu</td></tr>
 <tr><td>Mr. Rajgopal Patil</td><td>Mr. Shauri Sulakhe</td></tr>
-<tr><td>Rahul Marathe</td><td>Dr. Ekata Ghate</td></tr>
+<tr><td>Dr. Samir Pati</td><td>Dr. Ekata Ghate</td></tr>
 <tr><td>Dr. Mihir Kulkarni</td><td>Mr. Asim Auti</td></tr>
 </table>
 
@@ -87,7 +87,7 @@ Opp J W Marriot Hotel, Off Senapati Bapat Road, Pune.
 + You can pay by online bank transfer (bank details available in the
   registration form). Please send us payment details including transaction
   reference (screenshot is fine) to our email address inher.pune@gmail.com.
-+ Alternatively you can pay by cheque at office of Insearch Outdoors Pvt. Ltd.,
++ Alternatively you can pay by cheque at the office of Insearch Outdoors Pvt. Ltd.,
   C-26/9,  Ketan Heights, Rahul Nagar Lane, Near Karve Statue, Kothrud, Pune - 411038. 
 + Registration confirmed upon successful payment.
 + We have limited capacity. Kindly register early.
