@@ -27,7 +27,7 @@ the day.
 
 <img src="{{ site.base_url}}/assets/imgs/symbi_outing/thumb_IMG_2105_1024.jpg"
 class="img-responsive" alt="Dr. Sharma">
-A stick decides to explore Dr. Sharma's hand! Photo by Rajgopal Patil.
+A stick insect decides to explore Dr. Sharma's hand! Photo by Rajgopal Patil.
 
 <img src="{{ site.base_url}}/assets/imgs/symbi_outing/thumb_RNP_5968_1024.jpg"
 class="img-responsive" alt="Leopard butterfly">
@@ -56,7 +56,7 @@ Moth are beautiful too! Photo by Chaitrali Gore.
 Dr. Bastawade engrossed in his subject. Photo by Sushil Behere.
 
 <img src="{{site.base_url}}/assets/imgs/symbi_outing/PHOTO-2018-10-20-18-02-48.jpg" class="img-responsive" alt="Mantis Ootheca">
-A mantid ootheca.
+A mantid ootheca. Photo by Sushil Behere.
 
 <img src="{{ site.base_url}}/assets/imgs/symbi_outing/thumb_RNP_5894_1024.jpg"
 class="img-responsive" alt="Moth caterpillar">
