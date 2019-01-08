@@ -84,9 +84,8 @@ studies in any branch upto the age of 25 years. To avail the student discount a 
 
 ### Registration
 Registration online. 
-<!-- 
-<a href="https://goo.gl/forms/WQAg3hDRnFpUOBUD3">Click here</a> 
--->
+<a href="https://goo.gl/forms/W1dsEgIqc4RNP9jA3">Click here to register</a> 
+
 Payment by bank transfer (details upon registration).
 Cheque or cash accepted at the office of Insearch Outdoors, C-26/9, Ketan Heights, Rahul Nagar Lane, Near Karve Statue, Kothrud, Pune 411038.
 
