@@ -38,15 +38,14 @@ __Early bird__ Rs 2000 only (Rs 1800 for Exploratory students)
 __Regular__ Rs 2200 only (Rs 2000 for Exploratory students) 
 
 ### Key Information ###
-    Workshop Dates: February 8th, 9th ()
+    Workshop Dates: February 8th, 9th (Friday & Saturday)
     Timings: 4pm to 7pm
     Field trip on February 10th (Sunday)
     Location: Muktangan Exploratory Science Centre, Senapati Bapat Road, Near J.
     W. Marriot Hotel, Shivaji Nagar, Pune-16
 
-
 ### Registration
-    Please can register at the Muktangan Exploratory Science Centre.
+    Please register at the Muktangan Exploratory Science Centre.
 
 ### Contact
     020-25677962
