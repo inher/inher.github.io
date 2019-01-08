@@ -5,12 +5,12 @@ date:   2019-01-07 06:01:06 +0530
 meta: The Sahyadri mountain range is very rich biodiverse region is one the top ten biodiversity hotspots in the world. This along with the Himalayan range make India an amazing place to observe variety of biodiversity in the world. Getting to know this biodiversity is a very rewarding experience and something that can enrich the sensory world of every child. INHER is partnering with Muktangan Exploratory to bring a child friendly workshop in February 2019. This workshop will be conducted over 3 days along with a field trip with experts on the Sunday 10th February 2019. Birds, Insects, Mammals, Frogs and snakes, you'll get to learn about all in this workshop. Not just about what you read in a nature encyclopedia but about animals that are around us. Sign up before its full.
 keysubtext: 
 background-img: 
-teaser-img: Muktangan-INHER-Workshop-for-students-2019.jpg
+teaser-img: muktangan_INHER_workshop_for_students_2019.jpg
 teaser-orientation: landscape
 categories: course
 ---
 <img src="{{
-site.base_url}}/assets/imgs/Muktangan-INHER-Workshop-for-students-2019.jpg"
+site.base_url}}/assets/imgs/muktangan_INHER_workshop_for_students_2019.jpg"
 class="img-responsive" alt="Workshop at Muktangan">
 
 <center>
