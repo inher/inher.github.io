@@ -83,7 +83,7 @@ studies in any branch upto the age of 25 years. To avail the student discount a 
     
 
 ### Registration
-Registration online. 
+Registration online. Please contact at inher.pune@gmail.com.
 <!--
 <a href="https://goo.gl/forms/W1dsEgIqc4RNP9jA3">Click here to register</a> 
 -->
