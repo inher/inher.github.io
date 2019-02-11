@@ -70,7 +70,7 @@ Founder trustee, INHER. Retired Associate Professor from Modern College, Shivaji
 <div class="row">
 <div class="col-md-4 col-sm-4">
 <h4 style="text-align: center"> Member</h4>
-<img src="/assets/imgs/NMN.jpg" class="img-circle img-responsive rnp-scale">
+<img src="/assets/imgs/n_m_naidu.jpg" class="img-circle img-responsive rnp-scale">
 
 <h4 style="text-align: center"> Narendra M. Naidu </h4>
 Founder trustee, INHER. Head of Zoology Department, Modern College, Shivajinagar, Pune. His specialization is insects especially  wood boring beetles (Coleoptera) and grasshoppers (Orthoptera). He has conducted research and authored research papers on these topics.
