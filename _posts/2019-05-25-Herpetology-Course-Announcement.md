@@ -86,7 +86,7 @@ scientists, and, researchers.
 
 
 ### Registration
-Registration online. <a href="https://goo.gl/forms/vjG1mUmneEHkIUGy2">Click here</a>
+Registration online. <a href="https://forms.gle/HscUWyVAe57TRwZZ8">Click here</a>
 
 ### Contact
     09850826431
