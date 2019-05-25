@@ -70,6 +70,7 @@ scientists, and, researchers.
     <td>Anil Khaire</td>
     </tr> <tr>
     <td>Nikhil Modak</td>
+    <td>Makarand Ketkar</td>
     </tr> <tr>
     <td>Ram Bhutkar</td>
     <td>Amit Sayyed</td>
@@ -78,7 +79,6 @@ scientists, and, researchers.
     <td>Gaurang Govande</td>
     </tr> <tr>
     <td>Rajgopal Patil</td>
-    <td>Makarand Ketkar</td>
     </tr>
 </table>
 
