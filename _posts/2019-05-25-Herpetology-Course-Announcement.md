@@ -8,7 +8,8 @@ great introduction to the fantastic variety of snakes, lizards, frogs,
 crocodiles and other herpetofauna that inhabits our region. The course includes
 field visits on weekends for first hand primer and presentations covering
 variety of topics from identification to evolution. The course is open to all
-and will be conducted between 25th June - 14th July 2019 at S.N.D.T. Campus, Pune.
+and will be conducted between 25th June - 14th July 2019 at S.N.D.T. Campus, Nal
+stop, Pune.
 keysubtext: 
 background-img: bpvmk.jpg
 teaser-img: lizard_padhye.jpg
