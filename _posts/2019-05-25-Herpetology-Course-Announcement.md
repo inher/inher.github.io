@@ -2,14 +2,7 @@
 layout: post
 title:  "The 2019 Herpetology course registration started. Register immediately to book your place."
 date:   2019-05-25 17:12:06 +0530
-meta: The reptiles and amphibians are the earliest vertebrates to populate the
-land. This course conducted by eminent experts on reptiles and amphibians is a
-great introduction to the fantastic variety of snakes, lizards, frogs,
-crocodiles and other herpetofauna that inhabits our region. The course includes
-field visits on weekends for first hand primer and presentations covering
-variety of topics from identification to evolution. The course is open to all
-and will be conducted between 25th June - 14th July 2019 at S.N.D.T. Campus, Nal
-stop, Pune.
+meta: The reptiles and amphibians are the earliest vertebrates to populate the land. This course conducted by eminent experts on reptiles and amphibians is a great introduction to the fantastic variety of snakes, lizards, frogs, crocodiles and other herpetofauna that inhabits our region. The course includes field visits on weekends for first hand primer and presentations covering variety of topics from identification to evolution. The course is open to all and will be conducted between 25th June - 14th July 2019 at S.N.D.T. Campus, Nal stop, Pune.
 keysubtext: 
 background-img: bpvmk.jpg
 teaser-img: lizard_padhye.jpg
