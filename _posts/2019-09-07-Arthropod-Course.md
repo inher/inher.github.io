@@ -2,7 +2,7 @@
 layout: post
 title:  "The Amazing Arthropods short course begins 23th September"
 date:   2019-09-07 09:12:06 +0530
-meta: Opportunity for the curious Punekars to get to know our insects and other arthropods. Your overwhelming response to our previous arthropod courses has encouraged us to continue with this informative and exciting short course on the beautiful butterflies and deadly scorpions. This introductory course covers all kinds of insects and other arthropods that inhabit our forests, farms and even our homes. Eminent experts will be speaking on array of topics at this course which is open to all. Will be held from 27 September to 6 October 2018 at Muktangan Exploratory Science Centre, Pune. Talks will be on weekday evenings and includes a field trip with experts on Sunday.
+meta: SNDT College of Home Science and INHER bring an opportunity for the curious Punekars to get to know our insects and other arthropods. Your overwhelming response to our previous arthropod courses has encouraged us to continue with this informative and exciting short course on the beautiful butterflies and deadly scorpions. This introductory course covers all kinds of insects and other arthropods that inhabit our forests, farms and even our homes. Eminent experts will be speaking on array of topics at this course which is open to all. Will be held from 23 September to 5 October 2019 at SNDT College of Home Science, Nal Stop, Pune. Talks will be on weekday evenings and includes a field trip with experts on Sunday.
 keysubtext: 
 background-img: painted_grasshopper_shauri.jpg
 teaser-img: dragonfly_and_dew_shauri.jpg
@@ -10,7 +10,14 @@ teaser-orientation: landscape
 categories: course
 ---
 
-**Wonders of The Nature Series**
+<p align="center"><b>Wonders of The Nature Series</b></p>
+
+<h3 align="center">
+SNDT College of Home Science <br />
+and <br />
+Institute of Natural History Education and Research<br />
+</h3>
+<br />
 
 ### Amazing Arthropods - A Certificate Course in Arthropod Biology
 
