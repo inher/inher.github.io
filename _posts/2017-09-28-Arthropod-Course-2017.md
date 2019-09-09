@@ -2,7 +2,7 @@
 layout: post
 title:  "Amazing Arthropods is back!"
 date:   2017-09-28 09:12:06 +0530
-meta: Its been a year since we got wonderful response to the arthropod course and its time for another short course on beautiful butterflies to deadly scorpions. This introductory course covers all kinds of insects and other arthropods that inhabit our forests, farms and even our homes. Eminent experts will be speaking on array of topics at this  course which is open to all. 3 - 16 October 2017 at Abasaheb Garware College, Pune. Talks on weekday evening with field sessions on weekends.
+meta: Its been a year since we saw the wonderful response to the arthropod course and its time for another short course on the beautiful butterflies and deadly scorpions. This introductory course covers all kinds of insects and other arthropods that inhabit our forests, farms and even our homes. Eminent experts will be speaking on array of topics at this  course which is open to all. 3 - 16 October 2017 at Abasaheb Garware College, Pune. Talks on weekday evening with field sessions on weekends.
 keysubtext: 
 background-img: Crab1.jpg
 teaser-img: Moth2.jpg
