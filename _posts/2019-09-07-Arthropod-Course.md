@@ -43,6 +43,13 @@ Near Nal Stop, Erandwane, Pune.
     Talks: 6:30 - 8:30PM
     And a field trip with experts on 29th September 2019.
 
+<!--
+Some Faculty:
+
+Dr. R. M. Sharma
+Author of more than 275 research papers in many reputable scientific journals. He has also authored several articles and books, delivered talks on radio as well as numerous invited lectures in universities/colleges/NGOs. He has conducted many studies on endagered species in Ladakh, Western ghats and Madhya Pradesh. 
+
+-->
 
 ### Faculty
 <table class="table table-striped">
@@ -109,5 +116,9 @@ Near Nal Stop, Erandwane, Pune.
 ### Contact
 For any queries write to us at:
 inher.pune@gmail.com
+
+Or
+
+Call 9850826431 / 020 2544 3096/97
 
 <img src="{{ site.base_url}}/assets/imgs/tortoise-shell-nirale.jpg" class="img-responsive" alt="Tortoise Shell beetle">
