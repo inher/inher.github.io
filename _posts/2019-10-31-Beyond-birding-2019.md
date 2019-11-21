@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Beyond Birding: Certificate course in introductoy ornithology! Starts on 22nd November 2019"
+title:  "Beyond Birding: Certificate course in introductory ornithology! Starts on 22nd November 2019"
 date:   2019-10-31 08:12:06 +0530
 meta: Are you a bird watcher, photographer, nature lover? Curious to know how birds fly, migrate, sleep or care for their babies? Or would you like to learn to identify and photograph them? Here is your opportunity to know these and many other things about the lives of birds. INHER and the SNDT Home Science college present a short course on life and ways of birds. Many eminent scientists and lifelong researchers have come together to bring this opportunity to all bird lovers. The course covers all key topics on birds presented both in audio-visual fashion and in field. Course will be held every weekday evening with field trips on Sundays. It will run from 22nd November 2019 till 3rd December 2019. Register quickly to avail of early bird discount.
 keysubtext: 
@@ -15,14 +15,15 @@ categories: course
 <br />
 <br />
 Jointly organised by<br />
-S.N.D.T. Home Science College<br /> 
+<h3>S.N.D.T. Home Science College</h3><br /> 
 and <br /> 
-Institute of Natural History Education and Research (INHER)<br /> 
+<h3>Institute of Natural History Education and Research (INHER)</h3><br /> 
 <br />
 <br />
 </center>
 
 
+### Course Highlights
 +  An opportunity to deepen your birding knowledge and take your hobby to a higher level.
 +  A course by eminent researchers and experts 
 +  More than 20 classroom sessions covering all key concepts and ornithology topics
@@ -38,7 +39,7 @@ Only a limited number of seats are available. Register quickly to avail of early
     Medium of instructions is English
 
 ### Faculty
-<table class="table table-striped">
+<table class="table table-striped" style="font-size: 1.2em">
 <tr>
 <td>Dr. Vishwas Sawarkar</td><td>Dr. Anil Mahabal</td>
 </tr>
@@ -89,19 +90,20 @@ Only a limited number of seats are available. Register quickly to avail of early
 
 <div id="course_charges"></div>
 
-**Early Bird** 
 
-Rs 3500 (Students Rs 3000). Avail by 16th November 2019.
+####  **Early Bird** 
 
-**Regular**
+  * Rs 3500 (Students Rs 3000). Avail by 16th November 2019.
 
-Rs 4000 (Students Rs 3500)
+####  **Regular**
 
-Student discount is available only to the full time students of any educational
-streams of universities and colleges. Also they must have a current valid
-educational institute ID.
+  *  Rs 4000 (Students Rs 3500)
+
+  Student discount is available only to the full time students of any educational streams of universities and colleges. Also they must have a current valid educational institute ID.
 
 ### Payment Information
+
+**Details for Bank Transfers**:
 
     A/C Name: Institute of Natural History Education and Research
     Branch: HDFC Bank, Mayur Colony, Pune
@@ -110,19 +112,25 @@ educational institute ID.
     Email id: inher.pune@gmail.com
     Address: B1-602, Kumar Parisar, Kothrud, Pune, Maharashtra 411038
     
-    If paying by cash or cheque, deposit your payment at:
-    Insearch Outdoors, C-26/9, Ketan Heights, Rahul Nagar Lane, Near Karve
-    Statue, Kothrud, Pune between 10:30am and 6pm.
+_If paying by cash or cheque, deposit your payment at_:
 
-    Cheques should be made out in favour of 'Institute of Natural History Education and Research'.
+Insearch Outdoors
+
+C-26/9, Ketan Heights, Rahul Nagar Lane, Near Karve
+Statue, Kothrud, Pune 
+
+Timing: Between 10:30am and 6pm on weekdays.
+
+Cheques should be made out in favour of '**Institute of Natural History Education and Research**.
 
 ### Registration
-+ Once you make the payment please fill the registration form online at: <a href="https://forms.gle/r5rTWF9A8RycD7dh8">Click here</a>
++ **The Once you make the payment please fill the registration form online at: [Click here](https://forms.gle/r5rTWF9A8RycD7dh8)**
 + Registration confirmed upon successful payment.
 + We have limited capacity. Kindly register early.
 
     
 ### Contact
   Mobile: 9850826431 (Srushti)
+
   Email: inher.pune@gmail.com
   
