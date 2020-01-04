@@ -11,9 +11,56 @@ categories: course
 ---
 <img src="{{ site.base_url}}/assets/imgs/Frogmouth_RNP_banner.jpg" class="img-responsive" alt="Frogmouth">
 
+
+### Eminent faculty
+
+Faculty of the course consists of expert life-time ornithologists, researchers, scientists and conservationists.
+
+- Dr. Anil Mahabal, ornithologist and ex-Additional Director, Zoological Survey (Population ecology, roosting behaviour, distribution patterns) of India
+- Dr. Hemant Ghate, ex-Head of Zoology Dept, Modern College, Shivaji nagar
+- Dr. R. M. Sharma, ex-Dy Director, ZSI, entomologist (Taxonomy and systematics)
+- Dr. Prachi Mehta, ex-WII, ecology and conservation of Forest Owlet
+- Dr. Jayant Kulkarni, IFS, ex-WII, wildlife conservation
+- Rajgopal Patil, ex-Director, Cognizant Tech Solutions, bioacoustical studies
+- Dr. Anand Padhye, Researcher and Head of Zoology Dept, Abasaheb Garware College, Pune
+- Dr. Girish Jathar, Asst Director, BNHS
+- Dr Sushama Thatte, well known biologist and retired Asst Professor, Modern College, Shivaji Nagar
+- Dr Gaurav Pardeshi, experienced veterinarian in rescue and treatment of wild birds at Katraj animal orphanage
+
+
 ### Course Highlights
-Details coming shorly!
-  
+- 32 interactive sessions
+- Field techniques and case studies covered in detail
+- Learn real life case studies in ornithology taught by people behind them
+- 3 field visits (One overnight)
+- All talks and field visits on weekends (Fri, Sat, Sun)
+
+### Topics
+- Field identification of birds
+- Taxonomy and systematics of birds
+- Satellite telemetry
+- Survey, census and statistical methods
+- Bird Behaviours
+- Evolution of avian flight
+- Bird call recording
+- Bird communication
+- Feeding strategies
+- Time budgeting, feeding, diet studies
+- Avian archaeology
+- Distribution patterns in birds
+- Avian diseases
+- Avian conservation methods and practices
+- Use of technology
+- Variety of field techniques
+
+
+### Key Information
+
+    Starts: 10th January 2020
+    Ends: 2nd February 2020
+    Talks: Friday & Saturday evenings 6pm to 9pm
+    Field Visit: Sundays and one overnight Saturday & Sunday
+
 
 ### Course charges
 
