@@ -21,11 +21,12 @@ Faculty of the course consists of expert life-time ornithologists, researchers, 
 - Dr. R. M. Sharma, ex-Dy Director, ZSI, entomologist (Taxonomy and systematics)
 - Dr. Prachi Mehta, ex-WII, ecology and conservation of Forest Owlet
 - Dr. Jayant Kulkarni, IFS, ex-WII, wildlife conservation
-- Rajgopal Patil, ex-Director, Cognizant Tech Solutions, bioacoustical studies
 - Dr. Anand Padhye, Researcher and Head of Zoology Dept, Abasaheb Garware College, Pune
+- Rajgopal Patil, ex-Director, Cognizant Tech Solutions, bioacoustical studies
 - Dr. Girish Jathar, Asst Director, BNHS
 - Dr Sushama Thatte, well known biologist and retired Asst Professor, Modern College, Shivaji Nagar
 - Dr Gaurav Pardeshi, experienced veterinarian in rescue and treatment of wild birds at Katraj animal orphanage
+- Dr D. B. Bastawade, ex-Scientist, ZSI and arachnologist
 
 
 ### Course Highlights
