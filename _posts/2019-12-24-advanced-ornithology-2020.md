@@ -76,7 +76,10 @@ Faculty of the course consists of expert life-time ornithologists, researchers, 
 
   *  Rs 7400 (Students Rs 7100)
 
-  Student discount is available only to the full time students of any educational streams of universities and colleges. Also they must have a current valid educational institute ID.
+#### Note
+  - Fees include travel, stay and food during the overnight field visit
+  - Student discount is available only to the full time students of any educational streams of universities and colleges. Also they must have a current valid educational institute ID.
+  
 
 ### Payment Information
 
