@@ -70,7 +70,7 @@ Faculty of the course consists of expert life-time ornithologists, researchers, 
 
 ####  **Early Bird** 
 
-  * Rs 7100 (Students Rs 6800). Avail by 5th January 2020.
+  * Rs 7100 (Students Rs 6800). Avail by 8th January 2020.
 
 ####  **Regular**
 
