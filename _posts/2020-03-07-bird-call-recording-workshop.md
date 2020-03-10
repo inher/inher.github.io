@@ -17,7 +17,7 @@ Western Ghats near Pune. Conducted by experts from Cornell Lab of Ornithology,
 this workshop is co-organsed by Institute of Natural History Education and
 Research and High Places Pvt Ltd, in association with Bird Count India. Cornell
 Lab of Ornithology, part of the Cornell University, NY, is a premier institute
-that focuses of bioacoustics research.
+focused on bioacoustics research.
 
 The venue is the picturesque **Garudmaachi training centre** in the Tamhini Ghat about
 70km from Pune.
