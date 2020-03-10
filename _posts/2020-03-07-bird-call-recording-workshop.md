@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bird Call Recording and Analysis Workshop conducted by Cornell Lab of Ornithology"
-date:   2021-03-07 08:12:06 +0530
+date:   2022-03-07 08:12:06 +0530
 meta: Learn sound recording techniques from top-notch sound recordists in the heart of Western Ghats near Pune. Conducted by experts from Cornell Lab of Ornithology, this workshop is co-organsed by Institute of Natural History Education and Research and High Places Pvt Ltd, in association with Bird Count India.
 published: false
 keysubtext: 
