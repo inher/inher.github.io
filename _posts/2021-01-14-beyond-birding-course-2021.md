@@ -32,7 +32,7 @@ and <br />
 
 
 ### Key Information ###
-+ Course begins on __23<sup>rd</sup> January 2021__ and ends on __4<sup>th</sup> February 2021__.
++ Course begins on __27<sup>rd</sup> January 2021__ and ends on __4<sup>th</sup> February 2021__.
 + Talks will be held every day in the evening between 6:00pm-8:00pm. 
 + Course will be conducted **online on Zoom platform**, links for which will be shared with all participants every day before the talk.
 + Medium of instruction will be English.
