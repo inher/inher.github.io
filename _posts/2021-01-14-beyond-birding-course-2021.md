@@ -47,7 +47,7 @@ and <br />
 + **Rajgopal Patil**: An IT professional, Rajgopal has been observing wildlife for more than 30 years. He is keenly interested in bioacoustics and has published research papers on birds and amphibians. 
 + **Nikhil Dandekar**: A behavioural ecologists and field biologist working in the field of conservation for past 15 years. Nikhil Has extensively worked on amphibians, large carnivore, birds and Human-Wildlife Conflict and published many research papers.
 + **Dr. Mandar Datar**: Scientist at the Agharkar Research Institute, Pune, he is an expert botanist and ecologist. He has many scientific publications, books and articles.
-+ **Dr. Aseem Auti**: An passionate biologist, he teaches at Garware College, Pune. 
++ **Dr. Aseem Auti**: Senior Teaching Associate, Center of Excellence in Science and Mathematics Education (CoESME), IISER Pune. PhD (Microbiology). He has been teaching Life Science courses at UG & PG level for the past 10+ years. He has academic interests in the field of Microbiology, Ecology & Evolution, and Conservation of Biodiversity, and has popular as well as scientific publications to his credits.
 
 ### Syllabus
 
