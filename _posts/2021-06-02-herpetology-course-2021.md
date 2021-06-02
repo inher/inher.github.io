@@ -71,7 +71,7 @@ researchers.
     
 
 ### Registration
-+ **Once you make the payment please fill the registration form online at: [Click here](https://forms.gle/XDP2etZxQZ6uZgzg6)**
++ **Once you make the payment please fill the registration form online at: [Click here](https://forms.gle/Cixihu9xwHVkFsVF7)**
 + Registration confirmed upon successful payment.
 + Only limited numbers to ensure quality. Kindly register early.
 
