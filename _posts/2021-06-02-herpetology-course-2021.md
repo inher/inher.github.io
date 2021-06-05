@@ -2,7 +2,7 @@
 layout: post
 title:  "Hissing Herps - the 2021 Herpetology course is back as online course. Register now."
 date:   2021-06-02 10:44:06 +0530
-meta: This course will take you through the beautiful world of snakes, frogs, geckos and crocodiles, and all other herps. Herpetology is the study of reptiles and amphibians. Although cold blooded, herps are a fascinating animals, displaying various characters like strength, aggression, love and more intelligence that most people think. This online course, starting on 5th June, comprises of 15 talks on above topics by eminent scientists and researchers.
+meta: This course will take you through the beautiful world of snakes, frogs, geckos and crocodiles, and all other herps. Herpetology is the study of reptiles and amphibians. Although cold blooded, herps are a fascinating animals, displaying various characters like strength, aggression, love and more intelligence that most people think. This online course, starting on 14th June, comprises of 15 talks on above topics by eminent scientists and researchers.
 keysubtext: 
 background-img: malabar_pit_nikhil.jpg
 teaser-img: sarada_nikhil.jpg
@@ -37,7 +37,7 @@ researchers.
 
 
 ### Key Information ###
-+ Course begins on __14<sup>th</sup> June 2021__ and ends on __27<sup>th</sup> October 2021__.
++ Course begins on __14<sup>th</sup> June 2021__ and ends on __27<sup>th</sup> June 2021__.
 + Talks will be held every day in the evening between 6:00pm-8:00pm. Additional lectures will be conducted on Sundays (20<sup>th</sup> and 27<sup>th</sup> June).
 + Course will be conducted **online on Zoom platform**, links for which will be shared every day before the talk.
 + Medium of instruction will be English.
