@@ -38,7 +38,7 @@ researchers.
 
 ### Key Information ###
 + Course begins on __14<sup>th</sup> June 2021__ and ends on __27<sup>th</sup> June 2021__.
-+ Talks will be held every day in the evening between 6:00pm-8:00pm. Additional lectures will be conducted on Sundays (20<sup>th</sup> and 27<sup>th</sup> June).
++ Talks will be held in the evening between 6:00pm-8:00pm on Monday, Wednesday and Friday. Additional lectures will be conducted at 10-11am on Sundays (20<sup>th</sup> and 27<sup>th</sup> June).
 + Course will be conducted **online on Zoom platform**, links for which will be shared every day before the talk.
 + Medium of instruction will be English.
 + Kindly note we are unable to provide the videos of the workshop and presentations. However, the course material will be sent at the end of the course.
