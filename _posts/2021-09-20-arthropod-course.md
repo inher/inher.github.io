@@ -29,9 +29,6 @@ many more creatures. To create scientific awareness about the world of
 Arthropods, their role in nature and conservation among students and common
 people.
 
-### Register at: <a href="https://forms.gle/75n1i7pj88ySxBxHA">Click here</a>
-Register today to avail of early bird discount! See <a href="#course-charges">below for details.</a>
-
 ### Key Information ###
 + Dates: 11th - 31st October 2021
 + Talks will be held in the evening between 6:30pm-8:00pm on weekdays. Additional lectures will be conducted at 10-12am on Sundays (24<sup>th</sup> and 31<sup>st</sup> October).
@@ -95,7 +92,8 @@ Register today to avail of early bird discount! See <a href="#course-charges">be
     
 
 ### Registration
-+ **Once you make the payment please fill the registration form online at: [Click here](https://forms.gle/Cixihu9xwHVkFsVF7)**
++ **Once you make the payment please fill the registration form online at:
+  [Click here](https://forms.gle/6EJZbNuRtecaS6MBA)**
 + Registration confirmed upon successful payment.
 + Only limited numbers to ensure quality. Kindly register early.
 
