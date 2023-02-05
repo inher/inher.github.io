@@ -102,41 +102,6 @@ Makarand is a core wildlife lover and also a good trekker. He has more than 15 y
 
 </div>
 
-## Research and Academic Coordinator
-<div class="row">
-
-<div class="col-md-4 col-sm-6" style="text-align=center">
-<img src="/assets/imgs/ND.jpg" class="img-circle img-responsive rnp-scale">
-<h4 style="text-align: center">Nikhil Dandekar</h4>
-A civil engineer turned field biologist, Nikhil works in field of conservation with a core interest in Behavioural Ecology. He has been exploring forests in India for past 15 years and has worked on projects related to habitat conservation, amphibian distribution and ecology, Large carnivores and  Human-wildlife conflict mitigation. Nikhil is experienced in training frontline Forest Department staff and has also conducted over 100 awareness programs all over India for school children and villagers. He has published  many research papers on diversity, taxonomy and ecology and is an excellent wildlife Photographer.
-</div>
-
-</div>
-
-## Volunteer Team
-<div class="row">
-
-<div class="col-md-4 col-sm-6" style="text-align=center">
-<img src="/assets/imgs/SB.jpg" class="img-circle img-responsive rnp-scale">
-<h4 style="text-align: center">Srushti Bhave</h4>
-Technical Assistant. <br />After her Master degree, Srushti has been working in the wildlife tourism field at InSearch outdoors. She has been involved in multiple research projects over past 5 years and has also published research papers. She is experienced in mapping techniques and has been supporting INHER in preparing maps for reports and research papers.
-
-</div>
-
-<div class="col-md-4 col-sm-6" style="text-align=center">
-<img src="/assets/imgs/CR.jpg" class="img-circle img-responsive rnp-scale">
-<h4 style="text-align: center">Chaitanya Risbud</h4>
-Field Assistant. <br />Chaitanya has always provided great support in the field work conducted at INHER. He is keenly interested in scorpions but has also assisted in field surveys of amphibians, birds and mammals. He has also published research papers.
-
-</div>
-
-<div class="col-md-4 col-sm-6" style="text-align=center">
-<img src="/assets/imgs/RB.jpg" class="img-circle img-responsive rnp-scale">
-<h4 style="text-align: center">Rupesh Badambe</h4>
-Accounts Assistant. <br />
-Rupesh manages admin and accounts at INHER and has been a strong backend support for every project.
-</div>
-
 
 
 </div>
