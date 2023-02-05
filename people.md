@@ -33,7 +33,6 @@ A scientist by career, Dr. Sharma retired as the Deputy Director from Zoological
 
 Associate Professor, MES’ Abasaheb Garware College, Pune; Conservation Biologist, Member IUCN Amphibian Specialist Group, (South Asia); Amphibian Taxonomist; working on Molecular Phylogeny, Systematics, Ecology, Diversity, Distribution and Evolution of Anuran amphibians. Author of the Amphibia chapter in Fauna of Maharashtra (ZSI State Fauna Series); Several Research papers in National and International journals;
 
-
 </div>
 </div>
 <hr />
