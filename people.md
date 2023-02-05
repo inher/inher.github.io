@@ -48,7 +48,7 @@ Rajgopal is an IT professional with deep interest in nature. He has been observi
 
 <h4 style="text-align: center"> Dr. Anand D. Padhye </h4>
 
-Associate Professor, MES’ Abasaheb Garware College, Pune; Conservation Biologist, Member IUCN Amphibian Specialist Group, (South Asia); Amphibian Taxonomist; working on Molecular Phylogeny, Systematics, Ecology, Diversity, Distribution and Evolution of Anuran amphibians. Author of the Amphibia chapter in Fauna of Maharashtra (ZSI State Fauna Series); Several Research papers in National and International journals;
+Professor, MES’ Abasaheb Garware College, Pune; Conservation Biologist, Member IUCN Amphibian Specialist Group, (South Asia); Amphibian Taxonomist; working on Molecular Phylogeny, Systematics, Ecology, Diversity, Distribution and Evolution of Anuran amphibians. Author of the Amphibia chapter in Fauna of Maharashtra (ZSI State Fauna Series); Several Research papers in National and International journals;
 
 </div>
 
