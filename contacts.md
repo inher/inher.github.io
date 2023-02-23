@@ -16,7 +16,7 @@ Our phone number:
 <br />
 
 #### Mailing Address
-B1-602, Kumar Parisar, <br />
+56/1, Sahajanand Society, <br />
 Kothrud, Pune, <br />
 Maharashtra 411038, <br />
 India <br />

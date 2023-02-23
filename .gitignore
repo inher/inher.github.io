@@ -16,3 +16,4 @@ _site/*
 /.jekyll-cache/
 _site/*
 /.*~undo-tree~
+_site/*
