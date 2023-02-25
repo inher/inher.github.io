@@ -56,7 +56,9 @@ categories: course
 
 
 ### Course charges
-      Rs 3000 only. (Rs 2500 if paid by Sunday 5th March 2023).
+      Rs 2500 only. (Rs 2000 if paid by Sunday 5th March 2023).
+      Students: Rs 2000 only. (Rs 1500 if paid by Sunday 5th March 2023).
+
 
 ### Payment Information
 
