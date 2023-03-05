@@ -50,3 +50,10 @@ a h5 {
   color: #002b36;
 }
 
+table {
+    font-size: 1em;
+}
+
+.rnp-pub-table td:nth-child(1) {
+    width: 80%;
+}
