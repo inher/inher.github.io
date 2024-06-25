@@ -72,10 +72,10 @@ scientists, and, researchers.
 
 ### Course charges
     We are happy to offer early bird discount for payments made by 1st July 2024
-    Rs. 2800 (Students Rs 2500)
+    Rs. 2500 (Students Rs 2200)
 
     Regular Charges (From 2nd July 2024)
-    Rs. 3000 (Students Rs 2800)
+    Rs. 2800 (Students Rs 2500)
 
 
 ### Registration
