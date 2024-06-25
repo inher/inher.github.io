@@ -4,8 +4,8 @@ title:  "The 2024 Herpetology course registration started. Register immediately 
 date:   2024-06-23 17:12:06 +0530
 meta: The reptiles and amphibians are the earliest vertebrates to populate the land. This course conducted by eminent experts on reptiles and amphibians is a great introduction to the fantastic variety of snakes, lizards, frogs, crocodiles and other herpetofauna that inhabits our region. The course includes field visits on weekends for first hand primer and presentations covering variety of topics from identification to evolution. The course is open to all and will be conducted between 8th July - 19th July 2024 at the Bharatiya Vichar Sahitya Hall, Limayewadi, Sadashiv Peth, Pune.
 keysubtext:
-background-img: bpvmk.jpg
-teaser-img: lizard_padhye.jpg
+background-img: lizard_padhye.jpg
+teaser-img: bpvmk.jpg
 teaser-orientation: landscape
 categories: course
 ---
