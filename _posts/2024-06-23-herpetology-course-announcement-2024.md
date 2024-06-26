@@ -2,7 +2,7 @@
 layout: post
 title:  "The 2024 Herpetology course registration started. Register immediately to book your place."
 date:   2024-06-23 17:12:06 +0530
-meta: The reptiles and amphibians are the earliest vertebrates to populate the land. This course conducted by eminent experts on reptiles and amphibians is a great introduction to the fantastic variety of snakes, lizards, frogs, crocodiles and other herpetofauna that inhabits our region. The course includes field visits on weekends for first hand primer and presentations covering variety of topics from identification to evolution. The course is open to all and will be conducted between 8th July - 19th July 2024 at the Bharatiya Vichar Sahitya Hall, Limayewadi, Sadashiv Peth, Pune.
+meta: The reptiles and amphibians are the earliest vertebrates to populate the land. This course conducted by eminent experts on reptiles and amphibians is a great introduction to the fantastic variety of snakes, lizards, frogs, crocodiles and other herpetofauna that inhabits our region. The course includes field visits on weekends for first hand primer and presentations covering variety of topics from identification to evolution. The course is open to all and will be conducted between 8th July - 19th July 2024 at the Bharatiya Vichar Sadhana Hall, Limayewadi, Sadashiv Peth, Pune.
 keysubtext:
 background-img: lizard_padhye.jpg
 teaser-img: bpvmk.jpg
@@ -41,7 +41,7 @@ scientists, and, researchers.
 ### Key Information ###
 + Course begins on 8<sup>th</sup> July 2024 and ends on 19<sup>th</sup> July 2024.
 + Talks will be held every weekday (Monday-Friday) in the evening between 6:30pm-8:30pm. Also on Sundays in the morning.
-+ The location for all talks is the Bharatiya Vichar Sahitya (Bha Vi Sa) Hall in the Maharashtra Education Society Head Office, Limayewadi, Sadashiv Peth, Pune. Near the Tilak Road branch of Cosmos Bank. A short walk from the Chh. Sambhaji Bridge (Lakdi pool).
++ The location for all talks is the Bharatiya Vichar Sadhana (Bha Vi Sa) Hall in the Maharashtra Education Society Head Office, Limayewadi, Sadashiv Peth, Pune. Near the Tilak Road branch of Cosmos Bank. A short walk from the Chh. Sambhaji Bridge (Lakdi pool).
 + One field trips will be in the morning of Sunday 13th July.
 + An additional field trip is planned at a later convenient date. This trip is optional and the cost will be communicated separately.
 + Medium of instruction is English.
@@ -66,6 +66,7 @@ scientists, and, researchers.
     <td>Ram Bhutkar</td>
     <td>Dr. Amit Sayyed</td>
     </tr> <tr>
+    <td>Dr Gaurav Pardeshi</td>
     <td>Rajgopal Patil</td>
     </tr>
 </table>
