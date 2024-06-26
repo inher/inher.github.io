@@ -71,16 +71,30 @@ scientists, and, researchers.
 </table>
 
 ### Course charges
+
     We are happy to offer early bird discount for payments made by 1st July 2024
-    Rs. 2500 (Students Rs 2200)
+    Rs. 2700 (Students Rs 2200)
 
     Regular Charges (From 2nd July 2024)
-    Rs. 2800 (Students Rs 2500)
+    Rs. 3000 (Students Rs 2500)
+
+
+### Payment Information
+
+**Details for Bank Transfers**:
+
+    A/C Name: Institute of Natural History Education and Research
+    Bank: The Cosmos Co-operative Bank Ltd
+    Branch: Gandhi Bhavan (Kothrud)
+    Account Number: 9080501079851
+    IFSC: COSB0000908
+    Email id: inher.pune@gmail.com
 
 
 ### Registration
-Registration online. <a href="https://forms.gle/xS7YuiyF2x7LQHNw8">Click here</a>
++ **Once you make the payment please fill the registration form online at: [Click here](https://forms.gle/xS7YuiyF2x7LQHNw8)**
++ Registration confirmed upon successful payment.
++ Only limited numbers to ensure quality. Kindly register early.
 
 ### Contact
-    09823376551
-    09922558271
+    Email: inher.pune@gmail.com
