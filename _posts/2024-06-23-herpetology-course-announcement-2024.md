@@ -41,7 +41,7 @@ scientists, and, researchers.
 ### Key Information ###
 + Course begins on 8<sup>th</sup> July 2024 and ends on 19<sup>th</sup> July 2024.
 + Talks will be held every weekday (Monday-Friday) in the evening between 6:30pm-8:30pm. Also on Sundays in the morning.
-+ The location for all talks is the Bharatiya Vichar Sahitya (Bha Vi Sa) Hall in the Maharashtra Education Society Head Office, Limayewadi, Sadashiv Peth, Pune.
++ The location for all talks is the Bharatiya Vichar Sahitya (Bha Vi Sa) Hall in the Maharashtra Education Society Head Office, Limayewadi, Sadashiv Peth, Pune. Near the Tilak Road branch of Cosmos Bank. A short walk from the Chh. Sambhaji Bridge (Lakdi pool).
 + One field trips will be in the morning of Sunday 13th July.
 + An additional field trip is planned at a later convenient date. This trip is optional and the cost will be communicated separately.
 + Medium of instruction is English.
