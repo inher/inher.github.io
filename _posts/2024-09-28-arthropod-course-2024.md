@@ -16,7 +16,7 @@ categories: course
 
 Immerse yourself in the mesmerizing world of arthropods - the buzzing bees, shimmering butterflies, stealthy scorpions, and curious crawling creatures that surround us in gardens, forests, waters, and even within our homes. If you're fascinated by these wonders of nature, get ready for an exhilarating experience! This engaging course will introduce you to the secret lives of scorpions, spiders, moths, and more, fostering a deeper scientific awareness about their roles in nature and conservation.
 
-### Register at: [Click here](https://goo.gl/forms/5Rtm6Tr505JWXqef2)
+### Register at: [Click here](https://forms.gle/fbSpZuwmzmQjX13h9)
 **Hurry now! Avail the early bird discount by registering today!** [See below for details](#course-charges).
 
 ### Key Information
@@ -35,13 +35,13 @@ Near the Tilak Road branch of Cosmos Bank. A short walk from the Chh. Sambhaji B
 <table class="table table-striped">
 <tr><td>Dr. R. M. Sharma</td><td>Dr. Sushama Thatte</td></tr>
 <tr><td>Dr. D. B. Bastawade</td><td>Dr. Anand Padhye</td></tr>
-<tr><td>Dr. Anand Padhye</td><td>Mr. Narendra Naidu</td></tr>
-<tr><td>Mr. Rajgopal Patil</td><td>Dr. Tejaswini Pachpor</td></tr>
-<tr><td>Dr. Mandar Datar</td><td>Dr. Sameer Padhye</td></tr>
-<tr><td>Dr. Samir Pati</td><td>Dr. Ekata Ghate</td></tr>
-<tr><td>Dr. Mihir Kulkarni</td><td>Mr. Asim Auti</td></tr>
-<tr><td>Ms Sayali Sheth</td><td>Dr. Shruti Paripatyadar</td></tr>
-<tr><td>Dr. Aparna Kalawate</td><td>Dr. Priyanka Dutta-Saha</td></tr>
+<tr><td>Mr. Narendra Naidu</td><td>Dr. Tejaswini Pachpor</td></tr>
+<tr><td>Mr. Rajgopal Patil</td><td>Dr. Mandar Datar</td></tr>
+<tr><td>Dr. Sameer Padhye</td><td>Dr. Samir Pati</td></tr>
+<tr><td>Dr. Ekata Ghate</td><td>Dr. Mihir Kulkarni</td></tr>
+<tr><td>Dr. Asim Auti</td><td>Dr. Sayali Sheth</td></tr>
+<tr><td>Dr. Shruti Paripatyadar</td><td>Dr. Aparna Kalawate</td></tr>
+<tr><td>Dr. Priyanka Dutta-Saha</td></tr>
 </table>
 
 ### Eligibility
@@ -65,19 +65,19 @@ Near the Tilak Road branch of Cosmos Bank. A short walk from the Chh. Sambhaji B
 + Ticks, Mites, and Other Arachnids
 + Shrimps, Prawns, Lobsters, and Other Crustaceans
 + Arthropod-Plant Interactions
-+ Field Identification and Arthropod Photography
++ Field Identification of Arthropods
 + Arthropod Communication
 + Arthropod Architecture, and more.
 
 ### Course Charges
 **Early Bird Discount (For payments made by 6th October 2024):**  
 
-    Rs. 2700 (Students Rs 2200)
+    Rs. 2500 (Students Rs 2000)
 
 
 **Regular Charges (From 7th October 2024):**  
 
-    Rs. 3000 (Students Rs 2500)
+    Rs. 2800 (Students Rs 2300)
 
 ### Payment Information
 
