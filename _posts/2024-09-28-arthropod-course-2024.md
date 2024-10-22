@@ -2,8 +2,8 @@
 layout: post
 title:  "Announcing Amazing Arthropods 2024!"
 date:   2024-09-09 09:12:06 +0530
-meta: Embark on an incredible adventure, Punekars! Discover the mesmerizing world of insects and other arthropods. Your enthusiastic response to our previous courses has inspired us to continue this captivating and informative journey into the enchanting world of beautiful butterflies and fascinating scorpions. This introductory course dives deep into the lives of insects and other arthropods inhabiting our forests, farms, and even our homes. Renowned experts will enlighten you on a myriad of topics. Join us from 14th October to 26th October 2024 at Bha Vi Sa Hall, near Tilak Road, Pune. Evening talks on weekdays and an expert-guided field trip on Sunday.
-keysubtext: 
+meta: Embark on an incredible adventure, Punekars! Discover the mesmerizing world of insects and other arthropods. Your enthusiastic response to our previous courses has inspired us to continue this captivating and informative journey into the enchanting world of beautiful butterflies and fascinating scorpions. This introductory course dives deep into the lives of insects and other arthropods inhabiting our forests, farms, and even our homes. Renowned experts will enlighten you on a myriad of topics. Join us from 6th November to 16th November 2024 at Bha Vi Sa Hall, near Tilak Road, Pune. Evening talks on weekdays and an expert-guided field trip on Sunday.
+keysubtext:
 background-img: robber_fly_rnp.jpeg
 teaser-img: jewel_beetle_rnp.jpg
 teaser-orientation: landscape
@@ -20,16 +20,15 @@ Immerse yourself in the mesmerizing world of arthropods - the buzzing bees, shim
 **Hurry now! Avail the early bird discount by registering today!** [See below for details](#course-charges).
 
 ### Key Information
-**Dates:** 14th - 26th October 2024
+**Dates:** 6th - 16th November 2024
 
 **Location:**  Bharatiya Vichar Sadhana (Bha Vi Sa) Hall,
 Maharashtra Education Society Head Office Building, Limayewadi, Sadashiv Peth, Pune.
 Near the Tilak Road branch of Cosmos Bank. A short walk from the Chh. Sambhaji Bridge (Lakdi pool), Deccan.
 
+**Timing:** Talks: 6:00 PM - 8:30 PM
 
-**Timing:** Talks: 6:30 PM - 8:30 PM
-
-**Field Trip:** One field trips will be on the morning of Sunday 20th October.
+**Field Trip:** One field trip will be on the morning of Sunday 10th November.
 
 ### Faculty
 <table class="table table-striped">
@@ -66,18 +65,18 @@ Near the Tilak Road branch of Cosmos Bank. A short walk from the Chh. Sambhaji B
 + Shrimps, Prawns, Lobsters, and Other Crustaceans
 + Arthropod-Plant Interactions
 + Field Identification of Arthropods
-+ Arthropod Communication
-+ Arthropod Architecture, and more.
++ Arthropod Communication and more...
 
 ### Course Charges
-**Early Bird Discount (For payments made by 6th October 2024):**  
 
-    Rs. 2500 (Students Rs 2000)
+**Early Bird Discount (For payments made by 31st October 2024):**
+
+    Rs. 2700
 
 
-**Regular Charges (From 7th October 2024):**  
+**Regular Charges (From 1st November 2024):**
 
-    Rs. 2800 (Students Rs 2300)
+    Rs. 3000 (Students Rs. 2500)
 
 ### Payment Information
 
@@ -90,11 +89,9 @@ Near the Tilak Road branch of Cosmos Bank. A short walk from the Chh. Sambhaji B
     IFSC: COSB0000908
     Email id: inher.pune@gmail.com
 
-
 ### Registration
 + **Once you make the payment please fill the registration form online at: [Click here](https://forms.gle/fbSpZuwmzmQjX13h9)**
 + **Note:** Registration confirmed upon successful payment. Spaces are limited—register early to secure your spot!
-
 
 ### Contact
 For any queries, reach out to us at: **inher.pune@gmail.com**

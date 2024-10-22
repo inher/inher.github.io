@@ -17,3 +17,6 @@ _site/*
 _site/*
 /.*~undo-tree~
 _site/*
+.DS_Store
+assets/.DS_Store
+_site/*
