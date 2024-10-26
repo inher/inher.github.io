@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Announcing Amazing Arthropods 2024!"
-date:   2024-10-22 09:12:06 +0530
+date:   2024-09-09 09:12:06 +0530
 meta: Embark on an incredible adventure, Punekars! Discover the mesmerizing world of insects and other arthropods. Your enthusiastic response to our previous courses has inspired us to continue this captivating and informative journey into the enchanting world of beautiful butterflies and fascinating scorpions. This introductory course dives deep into the lives of insects and other arthropods inhabiting our forests, farms, and even our homes. Renowned experts will enlighten you on a myriad of topics. Join us from 6th November to 16th November 2024 at Bha Vi Sa Hall, near Tilak Road, Pune. Evening talks on weekdays and an expert-guided field trip on Sunday.
 keysubtext:
 background-img: robber_fly_rnp.jpeg
