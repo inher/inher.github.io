@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Beyond Birding: Certificate course all bird lovers! Starts on 13th January 2025"
+title:  "Beyond Birding: Certificate course for all bird lovers! Starts on 13th January 2025"
 date:   2024-12-11 10:00:00 +0530
-meta: Are you a bird watcher, photographer, nature lover? Curious to know how birds fly, migrate, sleep or care for their babies? Or would you like to learn to identify and photograph them? Here is your opportunity to know these and many other things about the lives of birds. Institute of Natural History Education and Research presents a short course on life and ways of birds. Many eminent scientists and lifelong researchers have come together to bring this opportunity to all bird lovers. The course covers all key topics on birds presented in audio-visual fashion. Course comprises of 20 talks from 13th January to 25th January 2025. Register quickly to ensure your place.
+meta: Are you a bird watcher, photographer, nature lover? Curious to know how birds fly, migrate, sleep or care for their babies? Or would you like to learn to identify and photograph them? Here is your opportunity to know these and many other things about the lives of birds. The Institute of Natural History Education and Research presents a short course on life and ways of birds. Many eminent scientists and lifelong researchers have come together to bring this opportunity to all bird lovers. The course covers all key topics on birds presented in audio-visual fashion. Course comprises of 20 talks from 13th January to 25th January 2025. Register quickly to ensure your place.
 keysubtext:
 background-img:  700px_grandala_rnp.jpg
 teaser-img: small-sunbird-rnp.jpg
@@ -28,8 +28,8 @@ categories: course
 + Talks will be held every day in the evening between 6:00pm-8:30pm.
 + Course will be conducted at **Bharatiya Vichar Sadhana (Bha Vi Sa) Hall, Maharashtra Education Society Head Office, Limayewadi, Sadashiv Peth, Pune**. Near the Tilak Road branch of Cosmos Bank. A short walk from the Chh. Sambhaji Bridge (Lakdi pool), Deccan.
 + Medium of instruction will be English.
-+ A half day field trip on Sunday 19th January 2025.
-+ An optional 2 day field trip to Garudmaachi Centre, Tamhini on 25th and 26th January.
++ A half day field trip on Sunday 1st February 2025.
++ An optional 2 day field trip to Garudmaachi Centre, Tamhini on 18th and 19th January.
 
 
 + **Once you make the payment please fill the registration form online at: [Click here](https://forms.gle/o8D7RwP8EFNiUUrW8)**
