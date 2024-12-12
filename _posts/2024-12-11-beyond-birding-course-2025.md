@@ -31,6 +31,9 @@ categories: course
 + A half day field trip on Sunday 19th January 2025.
 + An optional 2 day field trip to Garudmaachi Centre, Tamhini on 25th and 26th January.
 
+
++ **Once you make the payment please fill the registration form online at: [Click here](https://forms.gle/o8D7RwP8EFNiUUrW8)**
+
 ### Faculty
 
 + **Dr. Anil Mahabal**: Retired Additional Director Zoological Survey of India. With doctorate on population ecology of Common Myna, birds has been his lifelong subject of research. He has authored many scientific papers related to the population, roosting behaviour, status reports, reviews, checklists and colour aberrations particularly in Aves and other animals. He has also published ten books and numerous articles on natural history topics in Marathi.
