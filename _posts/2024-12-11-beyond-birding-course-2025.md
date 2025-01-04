@@ -12,6 +12,8 @@ categories: course
 
 **Wonders of Nature Series**
 
+**THE COURSE IS NOW CLOSED FOR ANY MORE ENTRIES. SORRY FOR ANY INCONVENIENCE***
+
 ### Course Highlights
 + An opportunity to deepen your birding knowledge and take your hobby to a higher level.
 + A course by eminent researchers and experts
