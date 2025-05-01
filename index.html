@@ -3,22 +3,56 @@ layout: default
 background-img: top_banner_logo2.jpg
 ---
 
-	  {% for post in site.posts %}
-          <div class="blog-post">
-            <a href="{{ post.url }}"><h2 class="blog-post-title">{{ post.title }}</h2></a>
-            <p class="blog-post-meta">{{ post.date | date: "%-d %b %Y" }}</p>
-	    {% if post.teaser-img %} 
-	    <img src="{{ site.baseurl }}/assets/imgs/{{ post.teaser-img }}" class="img-responsive teaser-img-{{ post.teaser-orientation }}">
-	    {% endif %}
-	    {% if post.img-credit %} 
-      <p style="font-size: 10px;"> &copy; {{ post.img-credit }} </p>
-	    {% endif %}
-	    <p class="post-content" style="margin-top: 10px;"> {{ post.meta }} <a href="{{ post.url }}">more</a></p>
-            <p></p>
-            <hr id="index-hr">
-          </div>
-	  {% endfor %}
-  
+{% for post in paginator.posts %}
+<div class="blog-post">
+    <a href="{{ post.url }}"><h2 class="blog-post-title">{{ post.title }}</h2></a>
+    <p class="blog-post-meta">{{ post.date | date: "%-d %b %Y" }}</p>
+    {% if post.teaser-img %} 
+    <img src="{{ site.baseurl }}/assets/imgs/{{ post.teaser-img }}" class="img-responsive teaser-img-{{ post.teaser-orientation }}">
+    {% endif %}
+    {% if post.img-credit %} 
+    <p style="font-size: 10px;"> &copy; {{ post.img-credit }} </p>
+    {% endif %}
+    <p class="post-content" style="margin-top: 10px;"> {{ post.meta }} <a href="{{ post.url }}">more</a></p>
+    <hr id="index-hr">
+</div>
+{% endfor %}
+
+<nav>
+    <ul class="pagination">
+        {% if paginator.previous_page %}
+        <li>
+            <a href="{{ paginator.previous_page_path }}" aria-label="Previous">
+                <span aria-hidden="true">&laquo;</span>
+            </a>
+        </li>
+        {% else %}
+        <li class="disabled">
+            <span aria-hidden="true">&laquo;</span>
+        </li>
+        {% endif %}
+
+        {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+        <li class="active"><span>{{ page }}</span></li>
+        {% else %}
+        <li><a href="{{ site.paginate_path | replace: ':num', page }}">{{ page }}</a></li>
+        {% endif %}
+        {% endfor %}
+
+        {% if paginator.next_page %}
+        <li>
+            <a href="{{ paginator.next_page_path }}" aria-label="Next">
+                <span aria-hidden="true">&raquo;</span>
+            </a>
+        </li>
+        {% else %}
+        <li class="disabled">
+            <span aria-hidden="true">&raquo;</span>
+        </li>
+        {% endif %}
+    </ul>
+</nav>
 
   <div class="row" style="margin-top:10px">
     <div class="col-md-4 col-sm-3">
