@@ -22,3 +22,5 @@ assets/.DS_Store
 _site/*
 .DS_Store
 _site/**
+/index_before_pagination.html
+/_includes/footer_v1.html
