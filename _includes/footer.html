@@ -1,39 +1,75 @@
-<footer class="site-footer">
-  <hr />
-  <div class="wrapper">
+<footer class="footer" style="background-color: #222; color: #fff; padding: 40px 0; margin-top: 40px; font-size: 80%">
+  <div class="container">
+    <div class="row">
 
-    <h4 class="footer-heading">{{ site.title }}</h4>
-
-    <div class="footer-col-wrapper">
-      <!-- 
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-      -->
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
+      <!-- About Us -->
+      <div class="col-sm-3">
+        <h4>About Us</h4>
         <p>{{ site.description }}</p>
+        <a href="/about" class="text-info">Learn more →</a>
+      </div>
+
+      <!-- Quick Links -->
+      <div class="col-sm-3">
+        <h4>Quick Links</h4>
+        <ul class="list-unstyled">
+          <li><a href="/">Home</a></li>
+          <li><a href="/courses">Courses</a></li>
+          <li><a href="/People">People</a></li>
+          <li><a href="/Publications">Publications</a></li>
+          <li><a href="/Contact">Contact</a></li>
+        </ul>
+      </div>
+
+      <!-- Newsletter & Social -->
+      <div class="col-sm-3">
+        <h4>Stay Connected</h4>
+        <!-- <form action="/newsletter-signup" method="POST" class="form">
+             <div class="form-group">
+             <input type="email" class="form-control" name="email" placeholder="Your email address" required>
+             </div>
+             <button type="submit" class="btn btn-info btn-block">Subscribe</button>
+             </form> -->
+        <div class="social-icons" style="margin-top: 10px;">
+
+            {% if site.facebook_username %}
+              {% include icon-fb.html username=site.facebook_username %}
+            {% endif %}
+
+            <!-- <a href="https://www.facebook.com/YourPage" target="_blank" class="text-info" title="Facebook"> -->
+            <!-- <span class="glyphicon glyphicon-thumbs-up"></span> Facebook -->
+            <!-- </a><br> -->
+            <br>
+
+            {% if site.youtube_username %}
+              {% include icon-yt.html username=site.youtube_username %}
+            {% endif %}
+
+            <!-- <a href="https://www.youtube.com/YourChannel" target="_blank" class="text-danger" title="YouTube"> -->
+            <!-- <span class="glyphicon glyphicon-facetime-video"></span> YouTube -->
+            <!-- </a> -->
+        </div>
+      </div>
+
+      <!-- Legal & Contact -->
+      <div class="col-sm-3">
+        <h4>Contact</h4>
+        <!-- <ul class="list-unstyled"> -->
+            <!-- <li><a href="/privacy">Privacy Policy</a></li> -->
+            <!-- <li><a href="/terms">Terms of Use</a></li> -->
+            <!-- <li><a href="/accessibility">Accessibility Statement</a></li> -->
+        <!-- </ul> -->
+        <p>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+        <!-- <p>Phone: +1 (555) 123-4567</p> -->
+      </div>
+
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <p class="small">© {{ site.time | date: "%Y" }} {{ site.full_title }}. All rights reserved.</p>
+        <p class="small">We thank our volunteers, donors, and partners for supporting our mission.</p>
       </div>
     </div>
-
   </div>
-
 </footer>

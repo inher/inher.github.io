@@ -7,13 +7,16 @@
 
 # Site settings
 title: INHER
-email: inher@gmail.com
+full_title: Institute of Natural History Education and Research
+email: inher.pune@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Institute of Natural History Education and Research promotes scientific knowledge in natural history through research.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://inher.org" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  
+youtube_username: inherpune
+facebook_username: INHERPUNE
 
 # Build settings
 markdown: kramdown
