@@ -24,3 +24,4 @@ _site/*
 _site/**
 /index_before_pagination.html
 /_includes/footer_v1.html
+/chatgpt-styles-changes.diff
